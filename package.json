@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "deal-presentation",
   "version": "0.1.0",
   "private": true,
@@ -43,5 +44,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+=======
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+>>>>>>> ecd73265c96a0650f18c336ce5f622daf9c1c431
   }
 }
