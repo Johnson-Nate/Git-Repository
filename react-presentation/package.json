@@ -2,7 +2,7 @@
   "name": "deal-presentation",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Johnson-Nate.github.io/HK_inno.N",
+  "homepage": "https://Johnson-Nate.github.io/HK_inno.N",  // Assuming it's a typo, needs trailing slash "/"
   "dependencies": {
     "@headlessui/react": "^1.7.14",
     "@heroicons/react": "^2.0.18",
@@ -19,10 +19,8 @@
     "postcss": "^8.4.21"
   },
   "scripts": {
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
-}
-
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
